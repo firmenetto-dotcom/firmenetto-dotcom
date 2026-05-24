@@ -21,6 +21,9 @@ Bug bounty como laboratório real. Cada programa é um alvo diferente com superf
 **[ethical-hacking-toolkit](https://github.com/firmenetto-dotcom/ethical-hacking-toolkit)**  
 Ferramentas de segurança escritas do zero. Enumeração de subdomínios via Certificate Transparency, port scanner multithreaded com banner grabbing, PoC de SQL Injection com servidor de lab local e um scanner SAST que bloqueia commits com credenciais hardcoded. Sem dependência de ferramentas externas onde possível.
 
+**[offensive-security-labs](https://github.com/firmenetto-dotcom/offensive-security-labs)**  
+Relatórios técnicos e writeups de sessões de testes de invasão e engenharia de exploits executados em ambientes laboratoriais virtuais isolados. Inclui mapeamento de superfície com Nmap, exploração de backdoors históricas, pivotação manual de conexões com Netcat, exfiltração e quebra offline de hashes Linux `/etc/shadow` usando John the Ripper e wordlists.
+
 **[fluxblink](https://github.com/firmenetto-dotcom/fluxblink)**  
 Projeto TypeScript. Ainda em desenvolvimento.
 
